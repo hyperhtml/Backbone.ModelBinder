@@ -7,7 +7,7 @@
 		// CommonJS
 		module.exports = factory(
 			require( 'lodash' ),
-			require( "jQuery" ),
+			require( "jquery" ),
 			require( 'backbone' )
 		);
 	} else {
