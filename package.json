@@ -1,5 +1,5 @@
 {
-  "name"          : "backbone.modelBinder",
+  "name"          : "backbone.modelbinder",
   "description"   : "Simple, flexible and powerful Model-View binding for Backbone.",
   "url"           : "https://github.com/theironcook/Backbone.ModelBinder",
   "keywords"      : ["model", "view", "backbone"],
